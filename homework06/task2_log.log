@@ -1,0 +1,27 @@
+INFO:root:function 'my_func' was called with arguments: args(0.5,), kwargs={}
+INFO:root: function completed in 500.59 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.2,), kwargs={}
+INFO:root: function completed in 200.33 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.8,), kwargs={}
+INFO:root: function completed in 800.23 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.5,), kwargs={'one': '1', 'two': '2'}
+INFO:root: function completed in 500.61 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.2,), kwargs={}
+INFO:root: function completed in 200.14 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.8,), kwargs={}
+INFO:root: function completed in 800.45 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.5,), kwargs={'one': '1', 'two': '2'}
+INFO:root: function completed in 500.59 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.2,), kwargs={}
+INFO:root: function completed in 200.38 ms
+
+INFO:root:function 'my_func' was called with arguments: args(0.8,), kwargs={}
+INFO:root: function completed in 801.0 ms
+
